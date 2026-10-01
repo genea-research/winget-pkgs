@@ -23,7 +23,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: OpenTranscribe
     Publisher: Genea
-    DisplayVersion: 0.3.7
     ProductCode: OpenTranscribe
 ManifestType: installer
 ManifestVersion: 1.12.0
